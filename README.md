@@ -7,8 +7,7 @@ A comprehensive pipeline for protein property prediction using multiple Protein 
 ## Overview
 
 This project provides an end-to-end automated pipeline for protein property prediction, integrating state-of-the-art protein structure prediction methods with 38 different pre-trained protein language models. Starting from simple sequence data, the pipeline automatically obtains protein structures, extracts structural features, trains multiple models, and performs systematic performance evaluation.
-<img width="1192" height="547" alt="image" src="https://github.com/user-attachments/assets/9959e329-f543-4c19-815b-a78f518ecae1" />
-
+<img width="1182" height="539" alt="image" src="https://github.com/user-attachments/assets/f2db8588-8369-47c3-aba6-88c61a94ec9a" />
 
 
 ## Features
