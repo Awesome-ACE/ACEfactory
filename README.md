@@ -211,7 +211,7 @@ Modify the shell scripts to adjust:
 ## Results
 
 The pipeline automatically generates:
-- Performance metrics for all 38 models
+- Performance metrics for all 39 models
 - Comparative analysis in CSV format
 - Training logs and summaries
 - Best model checkpoints for deployment
