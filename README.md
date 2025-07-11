@@ -230,7 +230,8 @@ This project builds upon the excellent work by **venusfactory**. We gratefully a
 Special thanks to the following contributors:
 - **Boya Zhang** (Ariel)
 - **Wenjie Li** (Cynthia)  
-- **Shantong Hu** (Ezreal) 
+- **Shantong Hu** (Ezreal)
+  
 Their invaluable support and contributions made this project possible.
 
 ## License
