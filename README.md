@@ -99,7 +99,7 @@ bash 4_train_single.sh
 
 #### 1. Clone the Repository
 
-First, get the VenusFactory code:
+First, get the ACEfactory code:
 
 ```bash
 git clone https://github.com/Awesome-ACE/ACEfactory.git
